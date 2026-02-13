@@ -1,0 +1,47 @@
+# ibea.ai - AI Math & Data Tools
+# WebMCP-enabled tools for AI agent integration
+# Base URL: https://ibea.ai
+
+## Available Tools
+
+### mathjs_evaluate
+- URL: https://ibea.ai/t/mathjs-evaluate/
+- Docs: https://ibea.ai/tools/mathjs-evaluate.md
+- Description: Evaluate mathematical expressions with high precision. Supports arithmetic, algebra, trigonometry, logarithms, matrices, and more.
+- Parameters: expression (string, required)
+
+### mathjs_unit_convert
+- URL: https://ibea.ai/t/mathjs-unit-convert/
+- Docs: https://ibea.ai/tools/mathjs-unit-convert.md
+- Description: Convert between physical units. Supports length, mass, time, temperature, volume, speed, energy, and more.
+- Parameters: value (number, required), from (string, required), to (string, required)
+
+### mathjs_simplify
+- URL: https://ibea.ai/t/mathjs-simplify/
+- Docs: https://ibea.ai/tools/mathjs-simplify.md
+- Description: Simplify algebraic expressions. Reduces mathematical expressions to their simplest form.
+- Parameters: expression (string, required)
+
+### formula_parser
+- URL: https://ibea.ai/t/formula-parser/
+- Docs: https://ibea.ai/tools/formula-parser.md
+- Description: Parse and evaluate mathematical formulas with variables.
+- Parameters: formula (string, required), variables (object, optional)
+
+### basic_math
+- URL: https://ibea.ai/t/basic-math/
+- Docs: https://ibea.ai/tools/basic-math.md
+- Description: Perform basic mathematical operations using native Math functions.
+- Parameters: operation (string, required), a (number, required), b (number, optional)
+
+### chart_generator
+- URL: https://ibea.ai/t/chart-generator/
+- Docs: https://ibea.ai/tools/chart-generator.md
+- Description: Generate data visualizations as charts. Supports bar, line, pie, doughnut, radar, and scatter.
+- Parameters: type (string, required), labels (array, required), data (array, required), title (string, optional)
+
+### stat_distribution
+- URL: https://ibea.ai/t/stat-distribution/
+- Docs: https://ibea.ai/tools/stat-distribution.md
+- Description: Calculate probability density, cumulative distribution, and inverse CDF for statistical distributions.
+- Parameters: distribution (string, required), fn (string, required), x (number, required), params (array, required)
