@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ibea.ai/sitemap.xml
+Sitemap: https://www.ibea.ai/sitemap.xml

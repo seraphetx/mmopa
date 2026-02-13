@@ -127,4 +127,4 @@ const chartWebMCPTool: ToolDefinition = {
   },
 }
 registerWebMCPTool(chartWebMCPTool)
-injectJsonLd(buildToolJsonLd(chartGeneratorTool, 'https://ibea.ai'))
+injectJsonLd(buildToolJsonLd(chartGeneratorTool, 'https://www.ibea.ai'))

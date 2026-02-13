@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ibea.ai/</loc>
+    <loc>https://www.ibea.ai/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ibea.ai/t/mathjs-evaluate/</loc>
+    <loc>https://www.ibea.ai/t/mathjs-evaluate/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ibea.ai/t/mathjs-unit-convert/</loc>
+    <loc>https://www.ibea.ai/t/mathjs-unit-convert/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ibea.ai/t/mathjs-simplify/</loc>
+    <loc>https://www.ibea.ai/t/mathjs-simplify/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ibea.ai/t/formula-parser/</loc>
+    <loc>https://www.ibea.ai/t/formula-parser/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ibea.ai/t/basic-math/</loc>
+    <loc>https://www.ibea.ai/t/basic-math/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ibea.ai/t/chart-generator/</loc>
+    <loc>https://www.ibea.ai/t/chart-generator/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ibea.ai/t/stat-distribution/</loc>
+    <loc>https://www.ibea.ai/t/stat-distribution/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

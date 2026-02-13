@@ -12,4 +12,4 @@ renderToolUI(app, formulaParserTool)
 renderFooter(app)
 
 registerWebMCPTool(formulaParserTool)
-injectJsonLd(buildToolJsonLd(formulaParserTool, 'https://ibea.ai'))
+injectJsonLd(buildToolJsonLd(formulaParserTool, 'https://www.ibea.ai'))

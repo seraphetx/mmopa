@@ -12,4 +12,4 @@ renderToolUI(app, statDistributionTool)
 renderFooter(app)
 
 registerWebMCPTool(statDistributionTool)
-injectJsonLd(buildToolJsonLd(statDistributionTool, 'https://ibea.ai'))
+injectJsonLd(buildToolJsonLd(statDistributionTool, 'https://www.ibea.ai'))

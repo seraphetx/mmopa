@@ -12,4 +12,4 @@ renderToolUI(app, basicMathTool)
 renderFooter(app)
 
 registerWebMCPTool(basicMathTool)
-injectJsonLd(buildToolJsonLd(basicMathTool, 'https://ibea.ai'))
+injectJsonLd(buildToolJsonLd(basicMathTool, 'https://www.ibea.ai'))

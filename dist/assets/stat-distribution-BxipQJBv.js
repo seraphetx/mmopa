@@ -1,0 +1,1 @@
+import{r as e,a as t}from"./footer-l9ZlKHsK.js";import{r as s}from"./tool-ui-BQrSa9rv.js";import{s as o}from"./stat-distribution-8pzETwqZ.js";import{r as a,i,b as m}from"./jsonld-CEsRsu8E.js";import"./_commonjsHelpers-DaWZu8wl.js";const r=document.getElementById("app");e(r);s(r,o);t(r);a(o);i(m(o,"https://www.ibea.ai"));
